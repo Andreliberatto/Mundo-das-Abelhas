@@ -45,7 +45,7 @@ Rascunho
 
 Clone o repositório:
 
-git clone https://github.com/SEU-USUARIO/beeworld-premium.git
+git clone https://github.com/SEU-USUARIO
 
 Abra a pasta do projeto.
 
