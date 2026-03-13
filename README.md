@@ -38,7 +38,7 @@ Antes de começar a codificar, fiz um rascunho simples no papel para organizar a
 Depois transformei esse esboço na versão final do site.
 
 Rascunho	Resultado final
-<img src="assets/rascunho.jpg" width="400">	<img src="assets/print-final.jpg" width="400">
+<img src="assets/rascunho.jpeg" width="400">	<img src="assets/print-final.jpeg" width="400">
 
 Para que as imagens apareçam corretamente, coloque o rascunho como rascunho.jpg e o print do site como print-final.jpg dentro da pasta assets.
 
