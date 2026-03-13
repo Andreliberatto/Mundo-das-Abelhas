@@ -40,7 +40,6 @@ Depois transformei esse esboço na versão final do site.
 Rascunho	
 <img src="assets/rascunh.jpeg" width="400"> Resultado final	<img src="assets/print-final.jpeg" width="400">
 
-Para que as imagens apareçam corretamente, coloque o rascunho como rascunho.jpg e o print do site como print-final.jpg dentro da pasta assets.
 
  Como visualizar o projeto
 
